@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1583753276 source:c:\users\alimc\desktop\subtitle_editor_2\subtitle_editor\file_reader.cpp
+	"file_reader.h"
+
+1583754317 c:\users\alimc\desktop\subtitle_editor_2\subtitle_editor\file_reader.h
+	<cstdio>
+	<string>
+	<fstream>
+	<iostream>
+
+1584190512 source:c:\users\alimc\desktop\subtitle_editor_2\subtitle_editor\main.cpp
+	<iostream>
+	"file_reader.h"
+	"srt_file.h"
+	<string.h>
+	<stdlib.h>
+
+1584190065 c:\users\alimc\desktop\subtitle_editor_2\subtitle_editor\srt_file.h
+	<cstdio>
+	<string>
+	<fstream>
+	<iostream>
+	"file_reader.h"
+
+1584190019 source:c:\users\alimc\desktop\subtitle_editor_2\subtitle_editor\srt_file.cpp
+	"srt_file.h"
+	<sstream>
+	<string.h>
+	<stdio.h>
+
